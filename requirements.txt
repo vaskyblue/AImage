@@ -1,0 +1,4 @@
+stability-sdk==0.1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+streamlit==1.2.0
