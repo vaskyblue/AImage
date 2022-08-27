@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run AImage.py
+gunicorn app:app
